@@ -1,4 +1,4 @@
 # INTRODUCCION A LA PROGRAMACION
-# CURSO UPIITA
+# UPIITA
 # Santos López Luis Enrique
 # Grupo: 1MV1
